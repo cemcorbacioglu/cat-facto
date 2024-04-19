@@ -1,2 +1,2 @@
 # cat-facto
- gui that gives cat fact and a pic
+gives you cat fact and a pic
